@@ -25,6 +25,8 @@
 🔹 [Scalable Data Pipeline (AWS)] – Real-time + batch processing with automated testing  
 🔹 [Pocket Planner] – Expense & savings tracker (Full-Stack)  
 🔹 [Student Survey Management](https://github.com/Ashima277/survey-app) – CRUD app with Spring Boot & MySQL  
+🔹 [Client-Server File Sharing System (Java)](https://github.com/Ashima277/FileClientServer) – Socket programming project for file transfer between client and server  
+
 
 ---
 
