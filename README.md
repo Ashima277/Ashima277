@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashima Sharma  
 
-<!--
-**Ashima277/Ashima277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Software Engineering @ George Mason University | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔹 Skilled in **Java, Spring Boot, React, AWS, Docker, Kubernetes**  
+- 🔹 Experienced in **full-stack development, CI/CD, and scalable data pipelines**  
+- 🔹 Passionate about **building reliable systems and solving real-world problems**  
+- 🔹 Open to **Software Developer / IT roles**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Java,C++, Python, JavaScript, SQL  
+- **Frameworks:** Spring Boot, Django, Vue, React  
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Jenkins, GitHub Actions  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, Maven, Postman, Selenium, JUnit, TestNG  
+
+---
+
+## 🌟 Featured Projects  
+🔹 [Scalable Data Pipeline (AWS)] – Real-time + batch processing with automated testing  
+🔹 [Pocket Planner] – Expense & savings tracker (Full-Stack)  
+🔹 [Student Survey Management](https://github.com/Ashima277/survey-app) – CRUD app with Spring Boot & MySQL  
+
+---
+
+## 📫 Connect With Me  
+- 📍 Location: United States  
+- 💼 [LinkedIn](https://linkedin.com/in/aashima-sharma27)  
+- 🖥️ [GitHub](https://github.com/Ashima277)  
+- ✉️ Email: sharma.ashima277@gmail.com 
