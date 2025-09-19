@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 Skilled in **Java, Spring Boot, React, AWS, Docker, Kubernetes**  
+- 🔹 Skilled in **Java, Pyhton, Spring Boot, React, AWS, Docker, Kubernetes**  
 - 🔹 Experienced in **full-stack development, CI/CD, and scalable data pipelines**  
 - 🔹 Passionate about **building reliable systems and solving real-world problems**  
 - 🔹 Open to **Software Developer / IT roles**  
